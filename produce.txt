@@ -4,4 +4,4 @@ Frult & vegetables
 
 apple
 bananas
-pear
+pears
